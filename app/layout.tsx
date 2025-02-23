@@ -10,10 +10,10 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Horizon",
-  description: "Horizon is a modern banking app for everyone.",
+  title: "Blue Code",
+  description: "Blue Code is a Seamless Payment Solution.",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/icons/BlueCode.svg",
   },
 };
 
